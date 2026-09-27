@@ -42,3 +42,7 @@ and customer segments associated with churn.
 - Prioritize high- and medium-risk customers based on their
   churn risk, CLTV, and complaint history.
 - Investigate customer feedback and competitor activity.
+
+## Author
+
+**Aman Alam**
